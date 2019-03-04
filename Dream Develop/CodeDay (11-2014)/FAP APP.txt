@@ -1,0 +1,32 @@
+Start up login
+register page
+
+------Developers-------
+Share
+create
+codes
+trouble shoot
+
+Topics 
+search for dreams
+
+
+------Dreamer-------
+ideas
+"Whats your dream?"
+
+page 1
+multi line box
+share button
+
+page 2 
+my dreams (can include tags with thr dream)
+others dreams
+a thread
+
+-------NOTE-------
+Developers can be dreamers, and vice versa
+
+
+
+

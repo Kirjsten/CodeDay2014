@@ -1,0 +1,12 @@
+public void changeIcon()
+    {
+        URL url = getClass().getResource("/AppPackage/MiniIcon.png");
+         if (url != null) 
+         {
+            ImageIcon icon = new ImageIcon(url);
+            Image image = icon.getImage();
+            this.setIconImage(image);
+        } else {
+            System.err.println("Couldn't find icon file");
+        }
+    }

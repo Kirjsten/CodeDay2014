@@ -1,0 +1,4 @@
+Codeday!
+First/Last Name
+Password
+Email
